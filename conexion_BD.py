@@ -2,7 +2,6 @@ import psycopg2
 
 # Se realizara la debida conexion con la base de datos postgres 
 # que se encuentra alojada en AWS
-# se crea un comentario para la prueba del git
 
 conexion=None
 cursor=None
